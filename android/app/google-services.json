@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15319042434",
+    "project_id": "honor-login-page",
+    "storage_bucket": "honor-login-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15319042434:android:fb8a0e2d7663c9d6e2279b",
+        "android_client_info": {
+          "package_name": "com.mycompany.donottouch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoh7gDia_YI6ZBTVmx8jhCHCYy4OpaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15319042434:android:c98740927a5ac451e2279b",
+        "android_client_info": {
+          "package_name": "com.mycompany.honorloginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoh7gDia_YI6ZBTVmx8jhCHCYy4OpaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
